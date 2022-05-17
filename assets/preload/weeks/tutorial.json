@@ -1,20 +1,32 @@
 {
 	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
+		[
+			"unknown drip",
+			"mickeydrip",
+			[
+				20,
+				20,
+				20
+			]
+		]
 	],
-
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"difficulties": "",
 	"weekCharacters": [
-		"",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "",
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
 	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"startUnlocked": true
 }

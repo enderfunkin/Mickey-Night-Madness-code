@@ -1,35 +1,17 @@
 {
 	"songs": [
 		[
-			"Bopeebo",
-			"dad",
+			"unknown drip",
+			"mickeydrip",
 			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Fresh",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Dad Battle",
-			"dad",
-			[
-				146,
-				113,
-				253
+				20,
+				20,
+				20
 			]
 		]
 	],
 	"hiddenUntilUnlocked": false,
-	"hideFreeplay": true,
+	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"difficulties": "",
 	"weekCharacters": [
@@ -44,7 +26,7 @@
 		113,
 		253
 	],
-	"hideStoryMode": true,
+	"hideStoryMode": false,
 	"weekBefore": "tutorial",
 	"startUnlocked": true
 }
